@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Lab-CAMPEZ Brand Symbol</title>
+  <!-- Left Agile Bracket < (Flask body left) -->
+  <path fill="#1E40AF" d="
+    M 112 30
+    L 112 56
+    L 68 144
+    C 64 152 64 162 69 170
+    L 84 196
+    C 88 203 96 208 104 208
+    L 114 208
+    C 120.627 208 126 202.627 126 196
+    C 126 189.373 120.627 184 114 184
+    L 100 184
+    L 86 160
+    L 124 84
+    L 124 30
+    C 124 23.373 118.627 18 112 18
+    C 105.373 18 100 23.373 100 30
+    L 100 42
+    L 112 42
+    Z
+  "/>
+  <!-- Right Agile Bracket > (Flask body right) -->
+  <path fill="#1E40AF" d="
+    M 144 30
+    L 144 42
+    L 156 42
+    L 156 30
+    C 156 23.373 150.627 18 144 18
+    C 137.373 18 132 23.373 132 30
+    L 132 84
+    L 170 160
+    L 156 184
+    L 142 184
+    C 135.373 184 130 189.373 130 196
+    C 130 202.627 135.373 208 142 208
+    L 152 208
+    C 160 208 168 203 172 196
+    L 187 170
+    C 192 162 192 152 188 144
+    L 144 56
+    Z
+  "/>
+  <!-- Central Agile Catalyst Spark (4-point star in Emerald Catalyst) -->
+  <path fill="#10B981" d="
+    M 128 122
+    C 128 136 134 144 148 144
+    C 134 144 128 152 128 166
+    C 128 152 122 144 108 144
+    C 122 144 128 136 128 122
+    Z
+  "/>
+  <!-- Innovation Micro-nodes in Emerald -->
+  <circle cx="128" cy="80" r="7" fill="#10B981"/>
+  <circle cx="128" cy="54" r="5" fill="#10B981"/>
+</svg>
